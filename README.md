@@ -6,3 +6,5 @@ development-english-study (Like Lion Front-End School)
 - 우상 : url
 - 윤석 : url
 - 승연 : url
+
+- 단어 정리 : 

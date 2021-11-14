@@ -8,7 +8,7 @@ development-english-study (Like Lion Front-End School)
 - 승연 : 
 
 - 단어 정리 :  
-procrastinate : 미루다
+procrastinate : 미루다 <br />
 consider : 고려하다
 
 ---

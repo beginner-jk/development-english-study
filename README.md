@@ -9,7 +9,7 @@ development-english-study (Like Lion Front-End School)
 
 - 단어 정리 :  
 procrastinate : 미루다 <br />
-consider : 고려하다
+consider : 고려하다 <br />
 
 ---
 2회차 스터디

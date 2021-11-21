@@ -29,11 +29,23 @@ development-english-study (Like Lion Front-End School)
 
 ---
 2회차 스터디
-- 진권 : url
+- 진권 : https://velog.io/@effort_jk/%EC%98%81%EC%96%B4%EA%B3%B5%EB%B6%80-%EA%B7%B8%EB%A3%B9-%EC%8A%A4%ED%84%B0%EB%94%94-2%ED%9A%8C%EC%B0%A8
 - 우상 : url
 - 윤석 : url
 - 승연 : url
 - 단어 정리 :  
+
+| word | meaning |
+| -- | -- |
+| struck-through | 관통 |
+| fancy | 엄청난, 화려한 |
+| amend | 수정하다 |
+| acronym | 두문자어 : 약어 |
+| built-in | 맵시 있는 |
+| accordion | 펼치는 |
+| feature | 기능 |
+| cite | 인용하다 |
+
 ---
 3회차 스터디
 - 진권 : url

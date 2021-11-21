@@ -30,21 +30,30 @@ development-english-study (Like Lion Front-End School)
 ---
 2회차 스터디
 - 진권 : https://velog.io/@effort_jk/%EC%98%81%EC%96%B4%EA%B3%B5%EB%B6%80-%EA%B7%B8%EB%A3%B9-%EC%8A%A4%ED%84%B0%EB%94%94-2%ED%9A%8C%EC%B0%A8
-- 우상 : url
+- 우상 : https://inexpensive-fluorine-556.notion.site/1422f645d6444d72804fdaad9f2d40c5
 - 윤석 : url
 - 승연 : url
 - 단어 정리 :  
 
-| word | meaning |
-| -- | -- |
-| struck-through | 관통 |
-| fancy | 엄청난, 화려한 |
-| amend | 수정하다 |
-| acronym | 두문자어 : 약어 |
-| built-in | 맵시 있는 |
-| accordion | 펼치는 |
-| feature | 기능 |
-| cite | 인용하다 |
+| word | meaning | word | meaning |
+| -- | -- | -- | -- |
+| struck-through | 관통 | fancy | 엄청난, 화려한 |
+| amend | 수정하다 | acronym | 두문자어 : 약어 |
+| built-in | 맵시 있는 | accordion | 펼치는 |
+| feature | 기능 | cite | 인용하다 |
+| -- | -- | -- | -- |
+| term floating around | 떠돌아다니는 용어 | confusing | 혼란스러운 |
+| announcement | 발표 | outline | 개요, 설명한다(v) |
+| Syntactically | 문법적으로 | compatible | 호환 |
+| compliant | 준수 | converted | 변환 |
+| store | 저장하다(v) | throughout | ~동안(전체에서) |
+| mimic | 흉내내다 | hierarchy | 계층 |
+| mindful | 마음챙김, 유의 | long-winded | 장황한 |
+| handy | 능숙한 | manipulate | 조종하다. |
+| convert A into B | A를 B로 변경한다. |
+
+
+
 
 ---
 3회차 스터디

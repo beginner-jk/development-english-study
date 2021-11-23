@@ -66,8 +66,8 @@ development-english-study (Like Lion Front-End School)
 | unprecedented | 전례없는 | especially | 특히 |
 | drive innovation | 혁신 주도 | Barriers Common | 공통된 장벽 |
 | Policy Factors | 정책 요소 | depends on several components | 여러 가지 구성요소에 따라 다르다 |
-| authoring tool | 디지털 컨텐츠를 만들 수 있는 소프트웨어 |
-| United Nations Convention on the Rights of Persons with Disabilities | 유엔 장애인 권리 협약 |
+| authoring tool | 디지털 컨텐츠를 만들 수 있는 소프트웨어 | United Nations Convention on the Rights of Persons with Disabilities | 유엔 장애인 권리 협약 |
+ 
 
 
 

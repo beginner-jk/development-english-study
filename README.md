@@ -1,5 +1,6 @@
-# development-english-study
-development-english-study (Like Lion Front-End School)
+## development-english-study (Like Lion Front-End School)
+매주 개발과 관련된 자유주제를 선정하여 각자 준비한 영어 article의 내용을 발표하고 지식을 공유할 예정입니다.
+
 ---
 1회차 스터디
 - 진권 : https://velog.io/@effort_jk/%EC%98%81%EC%96%B4%EA%B3%B5%EB%B6%80-4%ED%9A%8C%EC%B0%A8

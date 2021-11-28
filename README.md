@@ -84,7 +84,7 @@
 
 | word | meaning | word | meaning |
 | -- | -- | -- | -- |
-| remote |  | practitioner | 실무자 |
+| remote | 원격 | practitioner | 실무자 |
 | readability | 읽기 쉬움 | glare | 환하다 |
 | drastic | 급격한 | reducing | 줄이다 |
 | minimizes | (좋지 못한 것을)최소화하다 | intensity | 강도(세기) |

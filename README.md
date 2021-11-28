@@ -79,8 +79,26 @@
 - 진권 : url
 - 우상 : url
 - 윤석 : url
-- 승연 : url
+- 승연 : https://velog.io/@seungyeons/17-UXUI-Trends-for-2021-uxui-17-%ED%8A%B8%EB%A0%8C%EB%93%9C-2021%EC%9D%BD%EA%B8%B0
 - 단어 정리 :  
+
+| word | meaning | word | meaning |
+| -- | -- | -- | -- |
+| remote |  | practitioner | 실무자 |
+| readability | 읽기 쉬움 | glare | 환하다 |
+| drastic | 급격한 | reducing | 줄이다 |
+| minimizes | (좋지 못한 것을)최소화하다 | intensity | 강도(세기) |
+| ensure | 보장하다 | achieving | 허락하다 |
+| extruded | 돌출된 | opposite | 정반대 |
+| intuitiveness | 직관 | significant | 특별한 의미 |
+| enhance | 향상시키다 | immersive | 몰입하는 |
+| surroundings | 환경 (=environment) | demand  | 요구한다 |
+| integral | 필수적인 | adopting | 채택하다 |
+| proactive | 주도적 | approach | 접근 |
+| resistance | 저항 | insanely | 비상식적으로 |
+| frictionless | 마찰이 없는 | authentication | 인증 |
+| enormous | 막대한 | periods | 시기 |
+| -- | -- | -- | -- |
 ---
 4회차 스터디
 - 진권 : url

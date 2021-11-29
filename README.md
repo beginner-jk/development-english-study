@@ -77,7 +77,7 @@
 ---
 3회차 스터디
 - 진권 : url
-- 우상 : url
+- 우상 : https://inexpensive-fluorine-556.notion.site/f3702b13b43f45a98f472d52853291f6
 - 윤석 : url
 - 승연 : https://velog.io/@seungyeons/17-UXUI-Trends-for-2021-uxui-17-%ED%8A%B8%EB%A0%8C%EB%93%9C-2021%EC%9D%BD%EA%B8%B0
 - 단어 정리 :  
@@ -98,6 +98,12 @@
 | resistance | 저항 | insanely | 비상식적으로 |
 | frictionless | 마찰이 없는 | authentication | 인증 |
 | enormous | 막대한 | periods | 시기 |
+| -- | -- | -- | -- |
+| represents | 대표하다. | represents | 대표하다. |
+| occupy | 차지하다. | implied | 암시, 함축된 |
+| breakpoints | 중단점 | regardless | ~에 관계없이 |
+| populate | 채우다 | declare | 선언하다. |
+| Beside: 외에도 | -- | -- |
 | -- | -- | -- | -- |
 ---
 4회차 스터디

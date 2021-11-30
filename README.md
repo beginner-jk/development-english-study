@@ -76,7 +76,7 @@
 
 ---
 3회차 스터디
-- 진권 : url
+- 진권 : [진권 : 영어공부 3회차](https://velog.io/@effort_jk/%EC%98%81%EC%96%B4%EA%B3%B5%EB%B6%80-%EA%B7%B8%EB%A3%B9-%EC%8A%A4%ED%84%B0%EB%94%94-3%ED%9A%8C%EC%B0%A8)
 - 우상 : https://inexpensive-fluorine-556.notion.site/f3702b13b43f45a98f472d52853291f6
 - 윤석 : url
 - 승연 : https://velog.io/@seungyeons/17-UXUI-Trends-for-2021-uxui-17-%ED%8A%B8%EB%A0%8C%EB%93%9C-2021%EC%9D%BD%EA%B8%B0

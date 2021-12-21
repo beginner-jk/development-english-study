@@ -110,12 +110,36 @@
 - 진권 : url
 - 우상 : url
 - 윤석 : url
-- 승연 : url
+- 승연 : https://velog.io/@seungyeons/Introduction-to-web-APIs-%EC%9B%B9-api-%EC%86%8C%EA%B0%9C-%EC%9D%BD%EA%B8%B0
 - 단어 정리 :  
+
+| word | meaning | word | meaning |
+| -- | -- | -- | -- |
+| structured | 구성 (있는) | Prerequisites | 전제조건 |
+| literacy | 활용능력(글을 읽고 쓸 줄 아는 능력) | objective | 목적,목표 |
+| familiarity | 익숙함 | abstract | 추상적, 추상화 |
+| inefficient | 비효율적인 | rather | ~보다는 |
+| in particular | 특히 | retrieve | 컴퓨터(정보를)검색하다 |
+| relate | 관련 | implement | 구현하다 |
+| intuitiveness | 직관 | significant | 특별한 의미 |
+| available | 이용할수 있는 | from scratch | 처음부터 |
+| inversion | 반전 | manipulating  | (사물을 능숙하게)다루다 |
+| come across | ~ 우연히 발견하다 | -- | -- |
+| -- | -- | -- | -- |
+
+
 ---
 5회차 스터디
 - 진권 : url
 - 우상 : url
 - 윤석 : url
-- 승연 : url
+- 승연 : https://velog.io/@seungyeons/Introduction-to-web-APIs-%EC%9B%B9-api-%EC%86%8C%EA%B0%9C-%EC%9D%BD%EA%B8%B0-2
 - 단어 정리 :  
+
+| word | meaning | word | meaning |
+| -- | -- | -- | -- |
+| contained | 포함된 (억제,조심스러운) | constantly | 지속적으로 (끊임없이) |
+| widespread | 널리 퍼진 | distortion | 왜곡 |
+| rolling out | 출시 | -- | -- |
+| -- | -- | -- | -- |
+
